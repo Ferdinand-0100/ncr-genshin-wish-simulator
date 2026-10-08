@@ -8,4 +8,5 @@ So, funny thing: I absolutely hated web development. I don't even remember why a
 You can access the website directly from this repository's GitHub page which I will soon include here. In case you are weird enough to want to modify this project, you won't need to install any dependencies since this project only utilizes HTML + CSS + JavaScript (as of writing this README).
 
 ## To-Do:
-1. Switching between banners [ ]
+1. Switching between banners [✓]
+2. Add wish animation and button [ ]
